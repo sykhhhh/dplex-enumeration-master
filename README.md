@@ -3,7 +3,7 @@
 ```
 g++ main.cpp -O3 -o main
 ```
-### in files BK and DPEnum_without_q
+### in files BK and DPEnum_without_s
 ```
 ./main <file> <k> <l>
 ```
@@ -11,9 +11,9 @@ e.g.
 ```
 ./main ./email-Eu-core.bin 2 2
 ```
-### in file DPEnum_with_q
+### in file DPEnum_with_s
 ```
-./main <file> <k> <l> <q>
+./main <file> <k> <l> <s>
 ```
 e.g.
 ```
